@@ -1,2 +1,2 @@
-# local-storage-js
-Learning LocalStorage in javaScript
+# Browser Storage
+Learning BrowserStorage in javaScript
