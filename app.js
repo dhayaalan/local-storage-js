@@ -1,2 +1,2 @@
 console.log("Browser Storage");
-console.log();
+console.log("Hi");
